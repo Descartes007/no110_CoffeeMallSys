@@ -65,6 +65,9 @@ video/
 tools/
 *.bak
 content_data.txt
+*.txt
+image/
+limage/
 
 !*/build/*.java
 !*/build/*.html
